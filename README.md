@@ -1,5 +1,11 @@
 # Getting Started with Create React App
 
+It is Beginner project in this project I use , Routes , useEffect(), UseState() , and few javascript logic for  Modal popup.
+
+[Click here to visit]( https://app.netlify.com/sites/react-beginner-project/overview) 
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
