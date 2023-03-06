@@ -1,0 +1,11 @@
+.productshow{
+    display: flex;
+    flex-direction:row;
+    flex-wrap: wrap;
+}
+.btnp{
+    /* background-color: red; */
+    margin: 3%;
+    display: flex;
+    justify-content: center;
+}
